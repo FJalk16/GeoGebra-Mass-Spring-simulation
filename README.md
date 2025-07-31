@@ -16,7 +16,7 @@ For further details or the editable file, contact the corresponding author:
 A detailed description of the step-by-step procedure students followed while using the simulation, including the full 13-item evaluation questionnaire. Placeholders indicate where corresponding figures and response charts should be inserted.
 
 ### 2. `Study.xlsx`
-A spreadsheet containing raw and processed data from student responses to Questions 1–9. Includes values of gravitational acceleration, measured periods, calculated spring constants, and percentage errors.
+A spreadsheet containing raw and processed data from student responses to Questions 1–9. Includes values of gravitational acceleration, calculated spring constants, and percentage errors.
 
 ## 🔍 Citation and Use
 This repository is part of the supplemental material referenced in the article. See citation below for reference format.
